@@ -65,3 +65,11 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 5. Workplace Etiquette
 
 **Evidence:** 
+- [Wokrplace Etiquette Submission Screenshot](./Evidence/workplace1.png)
+
+**Reflection:**
+- **Situation:** Needed to understand and demonstrate appropriate professional behavior in workplace settings.
+- **Task:** Learn and apply workplace etiquette principles across communication, collaboration, and professional conduct.
+- **Action:** Studied workplace etiquette guidelines, practiced professional email communication, learned meeting protocols, and understood cultural sensitivity in diverse workplaces.
+- **Result:** Scored 80/100 on the assessment, identifying specific areas for improvement in time management and meeting etiquette that I have since addressed through additional practice and reflection.
+- **Overall:** Using what I have learnt I have never been repiremanded or given a verbal or written warning. 
