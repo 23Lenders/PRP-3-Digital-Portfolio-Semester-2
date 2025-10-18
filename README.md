@@ -14,7 +14,7 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 1. Business Communcation
 
 **Evidence:**
-- [Business Communication Submission Screenshots](./Evidence/Business-Comm.png)
+- [Business Communication Submission Screenshots](./Evidence/Business_Comm.png)
 - [Professional Email Example](./Evidence/email.png)
 
 **Reflection:**
