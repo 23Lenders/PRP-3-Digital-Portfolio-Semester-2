@@ -14,8 +14,8 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 1. Business Communcation
 
 **Evidence:**
-- [Business Communication Submission Screenshots](./evidence/Business-Comm.png)
-- [Professional Email Example](./evidence/email.png)
+- [Business Communication Submission Screenshots](./Evidence/Business-Comm.png)
+- [Professional Email Example](./Evidence/email.png)
 
 **Reflection:**
 - **Situation:** Required to demonstrate professional communication skills through various business scenarios and assignments.
@@ -27,7 +27,7 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 2. Interview Skills
 
 **Evidence:**
-- [Interview Skills Submission](./evidence/interview-skills1)
+- [Interview Skills Submission](./Evidence/interview-skills1)
 
 **Reflection:**
 - **Situation:** Needed to prepare for technical and behavioral interviews in the ICT industry.
@@ -39,7 +39,7 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 3. Mock Interview
 
 **Evidence:** 
-- [Mock Interview](./evidence/Mock-Interview.mp4)
+- [Mock Interview](./Evidence/Mock-Interview.mp4)
 
 **Reflection:** 
 - **Situation:** Participated in a simulated job interview for a Junior Developer position to practice an interview scenario.
@@ -51,6 +51,17 @@ This digital portfolio showcases my work readiness training achievements across 
 ### 4. Professional Networking
 
 **Evidence:**
-- [Professional Networking Submission Screenshot](./evidence/prof-net1.png)
-- [LinkedIn Profile Screenshot](./evidence/linkedin-profile-1.png)
-- [LinkedIn Profile Screenshot 2](./evidence/linkedin-profile-2.png)
+- [Professional Networking Submission Screenshot](./Evidence/prof-net1.png)
+- [LinkedIn Profile Screenshot](./Evidence/linkedin-profile-1.png)
+- [LinkedIn Profile Screenshot 2](./Evidence/linkedin-profile-2.png)
+
+**Reflection:**
+- **Situation:** Recognized the importance of building professional connections in the ICT industry for career development.
+- **Task:** Establish and maintain a professional network through online platforms and industry events.
+- **Action:** Optimized my LinkedIn profile with relevant skills and projects.
+- **Result:** Achieved 100/100 on the professional networking assessment and built a foundation of 50+ relevant industry connections that will support my career growth.
+- **Overall:** My LinkedIn profile I use mainly to get into contact with people I have previously worked with who can maybe recommend me to their managers for open positions. 
+
+### 5. Workplace Etiquette
+
+**Evidence:** 
